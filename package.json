@@ -1,0 +1,15 @@
+{
+  "name": "bunyan-logstash-stream",
+  "version": "1.0.0",
+  "description": "A simple bunyan stream that creates records in the logstash default format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bunyan",
+    "logstash"
+  ],
+  "author": "Samantha Quiñones <samantha@tembies.com>",
+  "license": "MIT"
+}
